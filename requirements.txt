@@ -1,0 +1,27 @@
+# Core app
+streamlit
+openai
+python-dotenv
+
+# Optional: if using LangChain or agents
+langchain
+langchain-core
+langchain-community
+
+# Text and PDF processing
+PyPDF2
+pdfplumber
+python-docx
+
+# For data handling and visualization
+pandas
+numpy
+matplotlib
+
+# For text preprocessing or summarization helpers
+nltk
+tiktoken
+
+
+
+
